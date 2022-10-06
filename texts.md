@@ -75,3 +75,12 @@ ___________________________
 Концепция
 Наставники
 Соцсети
+
+.kaufman__triangle{
+  width: 877px;
+  height: 877px;
+  position: absolute;
+  right: 0px;
+  background-image: url(/images/kaufman-triangle.svg);
+
+  }
